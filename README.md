@@ -1,4 +1,15 @@
 # Tears of Mandrake
+
+### 2025.04.22
+OpenMandiva Lx 6.0 has been released:
+https://www.openmandriva.org/en/news/article/openmandriva-lx-6-0-rock-the-spring-release
+
+Unfortunately, the gnome iso was placed in the so-called extra spins and if you want to download it, you have to go to a separate folder in sourceforge. This actually limits the popularity of this GNOME ISO - unfortunately, I have no influence on that.
+I feel sad that gnome was AGAIN treated as something untested and undesirable, while lxqt, which basically has no major tests or a dedicated maintainer, got its prime time. It is sad because of this no one internet website has liking or information about the release of gnome.
+
+Another reason to evaluate the further development of GNOME and Tears of Mandrake under the OpenMandriva, maybe this was the last release of Tears of Mandrake and GNOME under the wings of OpenMandriva.
+
+Old news.
 ### 2025.01.04
 Cooker
 - GTK4 updated to 4.16.12
