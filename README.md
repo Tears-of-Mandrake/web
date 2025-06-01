@@ -1,37 +1,70 @@
 # Tears of Mandrake
 
+### 2025.06.01
+Work has begun on the Tears of Mandrake 0.1.3 and 0.2.0 alpha update. Among the changes, better repository management. Version 0.2.0 should bring support for dnf5, earlier versions also support dnf5 but have problems with proper display on the screen of package installation operations, etc. 
+
+A dedicated system update module is still being prepared.
+
+### 2025.05.03
+An updated release of the Tears of Mandrake application, version 0.1.1-3, has appeared in the Cooker, ROME (rolling release) and ROCK (Lx 6.0) channels, which fixes an issue with the incorrect activation of the extra repository in the repository selector sub-application.
+
 ### 2025.04.22
 OpenMandiva Lx 6.0 has been released:
 https://www.openmandriva.org/en/news/article/openmandriva-lx-6-0-rock-the-spring-release
 
-Unfortunately, the gnome iso was placed in the so-called extra spins and if you want to download it, you have to go to a separate folder in sourceforge. This actually limits the popularity of this GNOME ISO - unfortunately, I have no influence on that.
-I feel sad that gnome was AGAIN treated as something untested and undesirable, while lxqt, which basically has no major tests or a dedicated maintainer, got its prime time. It is sad because of this no one internet website has liking or information about the release of gnome.
+[EDITED]
+The previous issues have been resolved and the OpenMandriva Lx 6.0 Gnome ISO has been added to the SourceForge root directory. You can download the ISO without any problems.
 
-Another reason to evaluate the further development of GNOME and Tears of Mandrake under the OpenMandriva, maybe this was the last release of Tears of Mandrake and GNOME under the wings of OpenMandriva.
 
 Old news.
+### Welcome to Tears of Mandrake!
+We are excited to announce the first release of Tears of Mandrake, a powerful system management tool for OpenMandriva.
+
+### Key Features:
+• Advanced Kernel Management with support for multiple kernels
+
+• Easy shell switching and configuration
+
+• GNOME Tweaks integration
+
+• Modern, user-friendly interface built with GTK4 and libadwaita
+
+### Coming Soon:
+• System backup and restore
+
+• Advanced hardware monitoring
+
+• Performance optimization tools
+
+
 ### 2025.01.04
-Cooker
-- GTK4 updated to 4.16.12
-- libshumate updated to 1.3.1
-- evolution updated to 3.54.3
-- glycin updated to 1.1.4
-- Alpaca updated to 3.2.0
-  
-Rest
+                      
+### Development Update',
+The development team has been working hard on improving the kernel management features:
 
-- dosbox-x updated to 2025.01.01
-- qownnotes updated to 25.1.1
-- retroarch updated to 1.20.0
-- openimageio updated to 2.5.18.0
-- opencolorio updated to 2.4.1
-- mesa updated to 24.3.3
-- cinnamon updated to 6.4.4
-- wine updated to 10.0-rc4
-- shotcut updated to 25.01.03
-- qmmp updated to 2.2.3
-- stress-ng updated to 0.18.08
-- hyprutils updated to 0.3.2
+• Added support for Clang and GCC compiled kernels
 
-### 2025.01.05
+• Implemented kernel installation progress tracking
+
+• Added safety features to prevent removal of the running kernel
+
+### Community
+Join our growing community! We welcome contributors of all skill levels.
+Visit our GitHub repository to get involved.
+
+### 2025.01.03
+
+### Project Announcement
+Today marks the beginning of the Tears of Mandrake project, a new initiative to create a comprehensive system management tool for OpenMandriva.
+
+### Goals:
+• Simplify system administration tasks
+
+• Provide a modern, user-friendly interface
+
+• Integrate deeply with OpenMandriva
+
+• Build a strong community around the project
+
+### 2025.01.02
 - work in progress at Tears of Mandrake
