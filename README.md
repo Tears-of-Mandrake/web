@@ -1,5 +1,10 @@
 # Tears of Mandrake
 
+### 2026.09.03
+There's almost no trace left of Davide Beatrici's sabotage. We've recovered from it and are almost forgetting about it. We believe some individuals should be forever cursed in the open source community. If you haven't read the story, please read the statement about the sabotage on our forum.
+But back to the important things:
+Work on the new ROME relase (rolling) is nearing completion. The ROME release is expected in early September 2026. Work is also underway on the Tears of Mandrake update, although it's uncertain whether it will appear in the next ROME release.
+
 ### 2025.06.01
 Work has begun on the Tears of Mandrake 0.1.3 and 0.2.0 alpha update. Among the changes, better repository management. Version 0.2.0 should bring support for dnf5, earlier versions also support dnf5 but have problems with proper display on the screen of package installation operations, etc. 
 
