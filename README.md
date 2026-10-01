@@ -1,5 +1,10 @@
 # Tears of Mandrake
 
+### 2026.10.01
+OpenMandriva ROME 26.09 has been released.
+This ROME release also introduces the new version of "Tears of Mandrake," featuring a rewritten audio module, a PipeWire equalizer, a system monitor, and a highly experimental backup module. Additionally, it includes UPDragora, which allows for system updates via a GUI and various other package-related tasks.
+https://www.openmandriva.org/en/news/article/2026-10-01-openmandriva-rome-26-09/
+
 ### 2026.09.03
 There's almost no trace left of Davide Beatrici's sabotage. We've recovered from it and are almost forgetting about it. We believe some individuals should be forever cursed in the open source community. If you haven't read the story, please read the statement about the sabotage on our forum.
 But back to the important things:
